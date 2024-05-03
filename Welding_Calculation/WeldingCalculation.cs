@@ -17,7 +17,7 @@ namespace Welding_Calculation
             try
             {
                 application.CreateRibbonTab("Welding Quantities");
-                application.CreateRibbonPanel("Welding Quantities", "Welding Panel");
+                application.CreateRibbonPanel("Welding Quantities", "Welding");
 
             }
             catch(Exception ex)
